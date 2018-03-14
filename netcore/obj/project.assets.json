@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/j/Desktop/test/netcore/netcore.csproj",
+      "projectUniqueName": "/Users/j/Desktop/netcore-vs-nodejs-vs-golang/netcore/netcore.csproj",
       "projectName": "netcore",
-      "projectPath": "/Users/j/Desktop/test/netcore/netcore.csproj",
+      "projectPath": "/Users/j/Desktop/netcore-vs-nodejs-vs-golang/netcore/netcore.csproj",
       "packagesPath": "/Users/j/.nuget/packages/",
-      "outputPath": "/Users/j/Desktop/test/netcore/obj/",
+      "outputPath": "/Users/j/Desktop/netcore-vs-nodejs-vs-golang/netcore/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

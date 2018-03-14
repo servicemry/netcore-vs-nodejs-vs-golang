@@ -1,0 +1,10 @@
+/Users/j/Desktop/test/netcore/bin/Debug/netcoreapp2.0/netcore.deps.json
+/Users/j/Desktop/test/netcore/bin/Debug/netcoreapp2.0/netcore.runtimeconfig.json
+/Users/j/Desktop/test/netcore/bin/Debug/netcoreapp2.0/netcore.runtimeconfig.dev.json
+/Users/j/Desktop/test/netcore/bin/Debug/netcoreapp2.0/netcore.dll
+/Users/j/Desktop/test/netcore/bin/Debug/netcoreapp2.0/netcore.pdb
+/Users/j/Desktop/test/netcore/obj/Debug/netcoreapp2.0/netcore.csproj.CoreCompileInputs.cache
+/Users/j/Desktop/test/netcore/obj/Debug/netcoreapp2.0/netcore.AssemblyInfoInputs.cache
+/Users/j/Desktop/test/netcore/obj/Debug/netcoreapp2.0/netcore.AssemblyInfo.cs
+/Users/j/Desktop/test/netcore/obj/Debug/netcoreapp2.0/netcore.dll
+/Users/j/Desktop/test/netcore/obj/Debug/netcoreapp2.0/netcore.pdb

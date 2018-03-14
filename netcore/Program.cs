@@ -16,10 +16,9 @@ namespace netcore
                     count+=i;
                 }
             }
-            System.Console.WriteLine("偶数和"+count);
-           var stopTime=DateTime.Now;
+            var stopTime=DateTime.Now;
             System.Console.WriteLine("当前结束时间:"+stopTime);
-           System.Console.WriteLine("用时秒:"+(stopTime-startTime));
+            System.Console.WriteLine("用时秒:"+(stopTime-startTime));
         }
     }
 }
